@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "path": "/",
+      "title": "Dashboard",
+      "icon": "stroke-home",
+      "iconf": "fill-home",
+      "type": "link",
+      "active": false
+    },
+    {
+      "path": "https://pixelstrap.freshdesk.com/support/home",
+      "title": "Raise Support",
+      "icon": "stroke-social",
+      "iconf": "fill-board",
+      "type": "link",
+      "active": false
+    },
+    {
+      "path": "/",
+      "title": "Documentation ",
+      "icon": "stroke-board",
+      "iconf": "fill-board",
+      "type": "link",
+      "active": false
+    }
+  ]
+}
